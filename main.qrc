@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="images">
+    <file>bottom.jpg</file>
+    <file>left.jpg</file>
+    <file>right.jpg</file>
+    <file>top.jpg</file>
+  </qresource>
+  <qresource prefix="ico">
+    <file>taskbar_ico.ico</file>
+  </qresource>
+</RCC>
